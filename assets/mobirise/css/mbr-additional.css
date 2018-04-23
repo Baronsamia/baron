@@ -2216,6 +2216,7 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background: #333333;
+  background: linear-gradient(45deg, #333333, #333333);
 }
 .cid-qQ14FLqFT5 .image-block {
   margin: auto;
